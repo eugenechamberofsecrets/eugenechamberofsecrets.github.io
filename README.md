@@ -18,7 +18,7 @@ Welcome to the Eugene Chamber of Secrets! This guide will help you find glimmers
 <br>c. Where it says, Caption goes here, provide a caption or delete that entire line.
 <br>d. Paste the edited code under the `<h1>` tag.
 
-Here's what it should look like after you add the first image
+Here's what it should look like after you add two images:
 ```
 <html lang="en">
 <head>

@@ -14,7 +14,7 @@ Welcome to the Eugene Chamber of Secrets! This guide will help you find glimmers
     <figcaption>Caption goes here</figcaption>
 </figure>
 ```
-<br>b. Where it says, 'image.jpg', replace that with 'images/<image>'
+<br>b. Where it says, 'image.jpg', replace that with 'images/myimage.fileextension'
 <br>c. Where it says, Caption goes here, provide a caption or delete that entire line.
 <br>d. Paste the edited code under the `<h1>` tag.
 

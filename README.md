@@ -16,4 +16,4 @@ Welcome to the Eugene Chamber of Secrets! This guide will help you find glimmers
 ```
 <br>b. Where it says, 'image.jpg', replace that with 'images/<image>'
 <br>c. Where it says, Caption goes here, provide a caption or delete that entire line.
-<br>d. Paste the edited code under the <body> tag.
+<br>d. Paste the edited code under the `<body>` tag.
